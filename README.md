@@ -6,6 +6,10 @@
 
 https://drive.google.com/file/d/1nEJ7NTtHcCHNQqUXaoPk55VH3Uwh4QGG/view?usp=sharing
 
+• GitHub Repository: mmdetection
+
+https://github.com/open-mmlab/mmdetection
+
 • Pretrained model
 
 https://github.com/open-mmlab/mmdetection/tree/master/configs/mask_rcnn
