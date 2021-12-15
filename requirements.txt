@@ -1,0 +1,13 @@
+# pip install -r requirements.txt
+
+# Base ----------------------------------------
+numpy==1.21.4
+Pillow==8.4.0
+tqdm==4.61.2
+
+# Export --------------------------------------
+scikit_image==0.18.3
+skimage==0.0
+
+# Extras --------------------------------------
+pycocotools==2.0.3
