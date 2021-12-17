@@ -1,5 +1,9 @@
 # VRDLhw3
 
+## Installation
+
+pip install -r requirements.txt
+
 ## Related URLs
 
 • Dataset link
